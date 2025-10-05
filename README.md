@@ -85,7 +85,7 @@ Project Methodology:
 
 7) Calculating Sufficient Volume Of Reserves Amount For Developing A New Well Without Losses For Each Region
    
-  Best Region Choice Result: 
+   Best Region Choice Result: 
 
    According to the results analysis, it appears that Region 2 would be the best choice when it comes to comparing average predicted reserves to the calculated break 
    even volume of suffient reserves needed for developing a new well without losses. Region 2 had the least difference when subtracting average predicted reserves from the 
