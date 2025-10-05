@@ -83,7 +83,7 @@ Project Methodology:
    barrels and a Linear Regression Model RMSE of: approximately 37.64. Region 1 has the lowest average amount of predicted reserves with an average predicted akount of:
    69.17 K barrels and a Linear Regression model RMSE of: approximately 0.88.
 
-8) Calculating Sufficient Volume Of Reserves Amount For Developing A New Well Without Losses For Each Region
+7) Calculating Sufficient Volume Of Reserves Amount For Developing A New Well Without Losses For Each Region
    
   Best Region Choice Result: 
 
@@ -95,13 +95,13 @@ Project Methodology:
 
    It appears that Region 2 has 94.86 K barrels of reserves, which is 16.25 K less reserves than the calculated break even volume of reserves which is 111.11 K barrels. 
 
-9) Calculating Estimated Profit And Estimated Volume Of Reserves For Each Region Using Model Predictions
+8) Calculating Estimated Profit And Estimated Volume Of Reserves For Each Region Using Model Predictions
 
     Best Region Choice Result:
 
-   According to the results, Region 0 had the highest estimated profit at: $25,012,838.53 and an estimated volume of reserves of: approximately 5558.41 K barrels.
+    According to the results, Region 0 had the highest estimated profit at: $25,012,838.53 and an estimated volume of reserves of: approximately 5558.41 K barrels.
 
-10) Calculating The Risk And Profit For Each Region Using Bootstrapping Technique:
+9) Calculating The Risk And Profit For Each Region Using Bootstrapping Technique:
 
     Bootstrapping Task Directions:
 
@@ -114,4 +114,4 @@ Project Methodology:
     Bootstrapping Risk And Profit Task Result:
 
     According to the boostrapped data, although the Region 1 was the best choice for a deveplopment of oil wells because the region had the highest bootstrap average profit of: 
-$4,624,024.33) which was higher than Region 0 and Region 2. Although Regions 0 and 2 had significantly notable amounts for their estimated average bootstrap profits, both these regions' risk of loss were too high with Region 1 having a 7.5% risk of loss and Region 0 having an approximately 11.89% risk of loss. Both Regions 0 and 2 did not satisfy the project's maximum risk of loss threshold of 2.5%, thus making Region 1 the best and only qualified region to suggest a development of oil wells with a low risk of loss of 0.2%.
+    $4,624,024.33) which was higher than Region 0 and Region 2. Although Regions 0 and 2 had significantly notable amounts for their estimated average bootstrap profits, both these          regions' risk of loss were too high with Region 1 having a 7.5% risk of loss and Region 0 having an approximately 11.89% risk of loss. Both Regions 0 and 2 did not satisfy the           project's maximum risk of loss threshold of 2.5%, thus making Region 1 the best and only qualified region to suggest a development of oil wells with a low risk of loss of 0.2%.
