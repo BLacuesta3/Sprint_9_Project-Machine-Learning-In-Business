@@ -25,3 +25,9 @@ You have data on oil samples from three regions. Parameters of each oil well in 
 Build a model that will help to pick the region with the highest profit margin. Analyze potential profit and risks using the Bootstrapping technique.
 You have data on oil samples from three regions. Parameters of each oil well in the region are already known. Build a model that will help to pick the region 
 with the highest profit margin. Analyze potential profit and risks using the Bootstrapping technique.
+
+Project Dataframes: 
+
+* 'geo_data_0.csv'
+* 'geo_data_1.csv'
+* 'geo_data_2.csv'
