@@ -5,7 +5,8 @@ find the best well. This project contains information for Regions 0, 1, and 2 fo
 in order to find which of the 3 regions listed is the most profitable for the OilyGiant mining company. This project involves calculating the estimated profit for each region 
 using a Linear Regression Model and then using the bootstrapping to revaluate the average estimed profit once again from a dataset of 1000 bootstrapped samples with replacement. 
 
-Task Presented For Project: 
+Task Presented For The Project: 
+
 You work for the OilyGiant mining company. Your task is to find the best place for a new well.
 Steps to choose the location:
 
